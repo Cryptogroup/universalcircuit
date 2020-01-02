@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/bristol.dir/src/bristol_to_SHDL.cpp.o -c /Users/hzk/Downloads/uc_work/src/bristol_to_SHDL.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/bristol_to_SHDL.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/UC.dir/src/Universal_Circuit.cpp.o -c /Users/hzk/Downloads/uc_work/src/Universal_Circuit.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Universal_Circuit.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Circuit/Circuit.cpp.o -c /Users/hzk/Downloads/uc_work/src/Circuit/Circuit.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Circuit/Circuit.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Dag/DAG.cpp.o -c /Users/hzk/Downloads/uc_work/src/Dag/DAG.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Dag/DAG.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Dag/DagNode.cpp.o -c /Users/hzk/Downloads/uc_work/src/Dag/DagNode.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Dag/DagNode.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Eu/EugComponent.cpp.o -c /Users/hzk/Downloads/uc_work/src/Eu/EugComponent.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Eu/EugComponent.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Eu/EugNode.cpp.o -c /Users/hzk/Downloads/uc_work/src/Eu/EugNode.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Eu/EugNode.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Gate/Gate.cpp.o -c /Users/hzk/Downloads/uc_work/src/Gate/Gate.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Gate/Gate.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/SHDL/SHDL_to_SHDL.cpp.o -c /Users/hzk/Downloads/uc_work/src/SHDL/SHDL_to_SHDL.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/SHDL/SHDL_to_SHDL.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Simple/SimpleCircuit.cpp.o -c /Users/hzk/Downloads/uc_work/src/Simple/SimpleCircuit.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Simple/SimpleCircuit.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Simple/SimpleGate.cpp.o -c /Users/hzk/Downloads/uc_work/src/Simple/SimpleGate.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Simple/SimpleGate.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Simple/SimpleUniversalGate.cpp.o -c /Users/hzk/Downloads/uc_work/src/Simple/SimpleUniversalGate.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Simple/SimpleUniversalGate.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Simple/SimpleXSwitch.cpp.o -c /Users/hzk/Downloads/uc_work/src/Simple/SimpleXSwitch.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Simple/SimpleXSwitch.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/UC.cpp.o -c /Users/hzk/Downloads/uc_work/src/UC.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/UC.cpp"
+},
+{
+  "directory": "/Users/hzk/Downloads/uc_work/build",
+  "command": "/usr/bin/clang++     -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk   -o CMakeFiles/SRC_LIB.dir/src/Universal_Circuit.cpp.o -c /Users/hzk/Downloads/uc_work/src/Universal_Circuit.cpp",
+  "file": "/Users/hzk/Downloads/uc_work/src/Universal_Circuit.cpp"
+}
+]
