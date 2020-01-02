@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hzk/Downloads/uc_work/src/bristol_to_SHDL.cpp
+fstream
+-
+iostream
+-
+sstream
+-
+algorithm
+-
+string.h
+-
+vector
+-
+list
+-
+math.h
+-
+stdint.h
+-
+config.h
+/Users/hzk/Downloads/uc_work/src/config.h
+
+/Users/hzk/Downloads/uc_work/src/config.h
+

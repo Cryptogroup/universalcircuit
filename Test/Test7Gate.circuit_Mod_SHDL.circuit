@@ -1,0 +1,4 @@
+4 gate arity 2 table [ 0 1 1 1 ] inputs [ 0 1 ]
+5 gate arity 2 table [ 0 1 1 1 ] inputs [ 2 3 ]
+6 output gate arity 2 table [ 1 1 0 1 ] inputs [ 4 5 ]
+outputs 6 

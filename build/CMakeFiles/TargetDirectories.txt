@@ -1,0 +1,5 @@
+/Users/hzk/Downloads/uc_work/build/CMakeFiles/rebuild_cache.dir
+/Users/hzk/Downloads/uc_work/build/CMakeFiles/edit_cache.dir
+/Users/hzk/Downloads/uc_work/build/CMakeFiles/bristol.dir
+/Users/hzk/Downloads/uc_work/build/CMakeFiles/UC.dir
+/Users/hzk/Downloads/uc_work/build/CMakeFiles/SRC_LIB.dir

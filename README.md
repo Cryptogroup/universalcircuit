@@ -7,7 +7,7 @@
   - CMake
 ## UniversalCircuit Compliler
 - Clone a copy of the main UniversalCircuit git repository and its submodules by running:
-  - git clone https://github.com/Cryptogroup/universalcircuit.git    
+  - git clone https://github.com/SJTU-CS-Lattice/UniversalCircuit.git    
 - Enter the UniversalCircuit directory: 
   - cd UniversalCircuit
 - Choose one of the compilers [here](https://cmake.org/cmake/help/v3.0/manual/cmake-generators.7.html) (e.g. Unix Makefiles) and run the following commands:

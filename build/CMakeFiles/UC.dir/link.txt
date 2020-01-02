@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++11 -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/UC.dir/src/Universal_Circuit.cpp.o  -o UC libSRC_LIB.a 

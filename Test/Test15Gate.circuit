@@ -1,0 +1,15 @@
+0 input
+1 input
+2 input
+3 input
+4 input
+5 input
+6 input
+7 input
+8 gate arity 2 table [ 0 1 1 1 ] inputs [ 0 1 ]
+9 gate arity 2 table [ 0 0 0 1 ] inputs [ 2 3 ]
+10 gate arity 2 table [ 0 1 1 1 ] inputs [ 4 5 ]
+11 gate arity 2 table [ 0 0 0 1 ] inputs [ 6 7 ]
+12 output gate arity 2 table [ 1 1 0 1 ] inputs [ 8 9 ]
+13 output gate arity 2 table [ 0 1 1 0 ] inputs [ 8 9 ]
+14 output gate arity 2 table [ 1 1 0 1 ] inputs [ 10 11 ]
